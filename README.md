@@ -26,7 +26,7 @@ git clone https://github.com/AsherMorse/Chip8Interpreter.git
 
 After launching the app, you can import a CHIP-8 [program](https://johnearnest.github.io/chip8Archive/) and use your keyboard to interact with the program just like you would with the original CHIP-8 keypad.
 
-![demo.gif](TBD)
+![demo.gif](https://github.com/AsherMorse/Chip8Interpreter/blob/main/Chip8Interpreter/Resources/demo.gif)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
